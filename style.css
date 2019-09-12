@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Gayathri&display=swap');
+
+#content {
+  margin-top: 25px;
+  background-color: black;
+  color: white;
+  align: center;
+  border-radius: 25px;
+  padding-top: 25;
+  padding-bottom: 25;
+  text-align: center;
+}
+
+body {
+  font-family: Gayathri;
+}
